@@ -1,8 +1,4 @@
-# Makefile for COMP 117 RPC Samples
-#
-#    Copyright 2012 - Noah Mendelsohn
-#
-#
+
 # Useful targets:
 #
 #
