@@ -1,0 +1,24 @@
+int add(int x, int y);
+int subtract(int x, int y);
+int multiply(int x, int y);
+int divide(int x, int y);
+int sum(int intArr[10]);
+int takesTwoArrays(int x[10], int y[10]);
+int showsArraysofArrays(int x[24], int y[24][15], int z[24][15]);
+string upcase(string s1, string s2);
+
+struct Person
+{
+    string firstname;
+    string lastname;
+    int age;
+};
+
+struct ThreePeople
+{
+    Person p1;
+    Person p2;
+    Person p3;
+};
+
+Person findPerson(ThreePeople tp);
